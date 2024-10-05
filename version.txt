@@ -1,0 +1,6 @@
+{*firmv=4.13,bin,BDU04.13.bin}
+{nodev=0.01,dest/front}
+{next=0}
+{token=6239476164:AAHDi1_Uzs3RorJb844Mv-OH1ucF0LX_fIc}
+{*groupeid=-4257145251}
+{chatid=561491721}
